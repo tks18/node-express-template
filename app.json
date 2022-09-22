@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "zyndex-server",
+      "name": "express-server",
       "script": "app.js",
       "exec_mode": "cluster",
       "env": {
